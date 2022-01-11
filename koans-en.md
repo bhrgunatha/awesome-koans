@@ -1,6 +1,6 @@
 # Kōans list
 
-## Angularjs
+## AngularJS
  - [https://github.com/bjpbakker/angular-koans](https://github.com/bjpbakker/angular-koans)
 
 ## Backbone
@@ -21,8 +21,10 @@
 
 ## Clojure
  - [https://github.com/functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans)
+
 ### ClojureScript
  - [http://clojurescriptkoans.com/](http://clojurescriptkoans.com/)
+
 ### core.logic
  - [https://github.com/sritchie/core.logic-koans](https://github.com/sritchie/core.logic-koans)
 
@@ -33,6 +35,9 @@
  - [https://github.com/bittersweetryan/ColdFusion-Koans](https://github.com/bittersweetryan/ColdFusion-Koans)
  - [https://github.com/nodoherty/ColdFusion-Koans](https://github.com/nodoherty/ColdFusion-Koans)
 
+## Crystal
+ - [https://github.com/ilmanzo/crystal-koans](https://github.com/ilmanzo/crystal-koans)
+
 ## D (Dlang, D programming Language)
  - [https://github.com/ilmanzo/DLangKoans](https://github.com/ilmanzo/DLangKoans)
 
@@ -41,6 +46,9 @@
 
 ## DotNet
  - [https://github.com/CoryFoy/DotNetKoans](https://github.com/CoryFoy/DotNetKoans)
+
+### DotNetCore
+ - [https://github.com/NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans)
 
 ## Elixir
  - [https://github.com/seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir)
@@ -52,8 +60,12 @@
 ## F#
  - [https://github.com/ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans)
 
+## Factor
+ - [https://github.com/jtxyz/factor-koans](https://github.com/jtxyz/factor-koans)
+
 ## Git
  - [http://gitimmersion.com/](http://gitimmersion.com/)
+ - [https://github.com/Gazler/githug](https://github.com/Gazler/githug)
 
 ## Go
  - [https://github.com/cdarwin/go-koans](https://github.com/cdarwin/go-koans)
@@ -90,11 +102,17 @@
 ## Neo4j
  - [https://github.com/jimwebber/neo4j-tutorial](https://github.com/jimwebber/neo4j-tutorial)
 
+## Nim
+ - [https://github.com/yashaka/nim_koans](https://github.com/yashaka/nim_koans)
+
 ## Objective-C
  - [https://github.com/joecannatti/Objective-C-Koans](https://github.com/joecannatti/Objective-C-Koans)
 
 ## Perl
  - [https://github.com/forcedotcom/PerlKoans](https://github.com/forcedotcom/PerlKoans)
+
+## PHP
+ - [https://github.com/Farkie/PHP-Koans](https://github.com/Farkie/PHP-Koans)
 
 ## PowerShell
  - [https://github.com/vexx32/PSKoans](https://github.com/vexx32/PSKoans)
@@ -108,12 +126,24 @@
 ## R
  - [https://github.com/DASpringate/Rkoans](https://github.com/DASpringate/Rkoans)
 
+## Racket
+ - [https://github.com/zyrolasting/racket-koans](https://github.com/zyrolasting/racket-koans)
+
 ## ReactJS
  - [https://github.com/arkency/reactjs_koans](https://github.com/arkency/reactjs_koans)
 
+## Reason
+ - [https://github.com/CalebRizo/reasonml-koans](https://github.com/CalebRizo/reasonml-koans)
+
 ## Ruby
-- [http://rubykoans.com/](http://rubykoans.com/)
-- [https://github.com/sathish316/metaprogramming_koans](https://github.com/sathish316/metaprogramming_koans)
+ - [http://rubykoans.com/](http://rubykoans.com/)
+ - [https://github.com/sathish316/metaprogramming_koans](https://github.com/sathish316/metaprogramming_koans)
+
+## Rust
+ - [https://github.com/crazymykl/rust-koans](https://github.com/crazymykl/rust-koans)
+
+## RxJS
+ - [https://github.com/Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans)
 
 ## SAP ABAP
  - [https://github.com/damir-majer/ABAPKoans](https://github.com/damir-majer/ABAPKoans)
@@ -127,3 +157,12 @@
 
 ## Swift
  - [https://github.com/mokagio/Swift-Koans](https://github.com/mokagio/Swift-Koans)
+
+## Unit Testing
+ - [https://github.com/codecop/Unit-Testing-Koans](https://github.com/codecop/Unit-Testing-Koans)
+
+## Vim
+ - [https://blog.sanctum.geek.nz/vim-koans/](https://blog.sanctum.geek.nz/vim-koans/)
+
+## Zig
+ - [https://github.com/ratfactor/ziglings](https://github.com/ratfactor/ziglings)
