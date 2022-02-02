@@ -50,6 +50,9 @@
 ### DotNetCore
  - [https://github.com/NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans)
 
+## Elisp
+ - [https://github.com/jtmoulia/elisp-koans](https://github.com/jtmoulia/elisp-koans)
+
 ## Elixir
  - [https://github.com/seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir)
  - [https://github.com/elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans)
