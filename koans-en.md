@@ -114,6 +114,9 @@
 ## PHP
  - [https://github.com/Farkie/PHP-Koans](https://github.com/Farkie/PHP-Koans)
 
+## Pointer koan
+- [https://github.com/paytonrules/PointerKoan](https://github.com/paytonrules/PointerKoan)
+
 ## PowerShell
  - [https://github.com/vexx32/PSKoans](https://github.com/vexx32/PSKoans)
 
