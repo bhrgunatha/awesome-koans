@@ -54,6 +54,9 @@
  - [https://github.com/seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir)
  - [https://github.com/elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans)
 
+## Elm
+ - [https://github.com/robertjlooby/elm-koans](https://github.com/robertjlooby/elm-koans)
+
 ## Erlang
  - [https://github.com/patrickgombert/erlang-koans](https://github.com/patrickgombert/erlang-koans)
 
@@ -157,6 +160,9 @@
 
 ## GNU Smalltalk
  - [https://github.com/sl4m/gnu_smalltalk_koans](https://github.com/sl4m/gnu_smalltalk_koans)
+
+## SQL
+ - [https://github.com/phillipjohnson/sql-koans](https://github.com/phillipjohnson/sql-koans)
 
 ## Swift
  - [https://github.com/mokagio/Swift-Koans](https://github.com/mokagio/Swift-Koans)
