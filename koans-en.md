@@ -18,6 +18,7 @@
 
 ## C++
  - [https://github.com/torbjoernk/CppKoans](https://github.com/torbjoernk/CppKoans)
+ - [https://github.com/LegalizeAdulthood/cpp-koans](https://github.com/LegalizeAdulthood/cpp-koans)
 
 ## Clojure
  - [https://github.com/functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans)
