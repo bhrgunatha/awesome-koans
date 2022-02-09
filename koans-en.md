@@ -92,7 +92,8 @@
  - [https://github.com/mrdavidlaing/javascript-koans](https://github.com/mrdavidlaing/javascript-koans)
 
 ## Kotlin
- - [https://github.com/Kotlin/kotlin-koans](https://github.com/Kotlin/kotlin-koans)
+ - [https://play.kotlinlang.org/koans/overview](https://play.kotlinlang.org/koans/)
+ - [https://github.com/Kotlin/kotlin-koans](https://github.com/Kotlin/kotlin-koans) - archived
 
 ## Lisp
  - [https://github.com/google/lisp-koans](https://github.com/google/lisp-koans)
